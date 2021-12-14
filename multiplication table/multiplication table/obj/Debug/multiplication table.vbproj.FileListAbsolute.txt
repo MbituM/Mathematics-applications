@@ -1,0 +1,2 @@
+C:\Users\john9\source\repos\multiplication table\multiplication table\obj\Debug\multiplication table.vbproj.AssemblyReference.cache
+C:\Users\john9\source\repos\multiplication table\multiplication table\obj\Debug\multiplication table.vbproj.CoreCompileInputs.cache
